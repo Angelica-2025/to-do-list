@@ -1,12 +1,11 @@
-# React + Vite
+# 📝 ToDo List CRUD
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido al proyecto de **ToDo List CRUD**! Este proyecto es una lista de tareas interactiva donde puedes **agregar**, **eliminar** y **mover** tus tareas en una lista. Está hecho con **HTML**, **CSS** y **JavaScript**.
 
-Currently, two official plugins are available:
+## 🚀 Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este proyecto cuenta con las siguientes funcionalidades:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Añadir tareas**: Puedes agregar nuevas tareas a la lista escribiendo en un campo de texto y presionando el botón "Añadir tarea" o presionando Enter.
+- **Eliminar tareas**: Cada tarea tiene un botón para eliminarla de la lista.
+- **Mover tareas**: Puedes mover las tareas hacia arriba o hacia abajo
